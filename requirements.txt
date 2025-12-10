@@ -2,3 +2,6 @@ numpy
 pandas
 scikit-learn
 matplotlib
+streamlit
+jupyter-server-proxy
+altair
